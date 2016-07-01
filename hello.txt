@@ -1,4 +1,8 @@
 hi, this is the first file created for github hello-world project
+<<<<<<< HEAD
 
 can I merge?
 
+=======
+can I merge?
+>>>>>>> master
